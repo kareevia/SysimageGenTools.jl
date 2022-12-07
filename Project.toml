@@ -1,0 +1,11 @@
+name = "SysimageGenTools"
+uuid = "0fb777ec-4b3b-4a07-9dfb-15785109ec8b"
+authors = ["icarus"]
+version = "0.1.3"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+MethodAnalysis = "85b6ec6f-f7df-4429-9514-a64bcd9ee824"
+PackageCompiler = "9b87118b-4619-50d2-8e1e-99f35a4d4d9d"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
